@@ -10,13 +10,13 @@ Tools and Framework used:
 3. socket.io
 
 Features:
-Allows multiple participants
-Video turn on/off
-Mute/unmute user audio
-Pin screen
-Picture in picture(floating video)
-Screen sharing(Entire screen/tab/window)
-Recording(video/screen)
-Live chat(text, emoticons, and auto-link)
+ Allows multiple participants
+ Video turn on/off
+ Mute/unmute user audio
+ Pin screen
+ Picture in picture(floating video)
+ Screen sharing(Entire screen/tab/window)
+ Recording(video/screen)
+ Live chat(text, emoticons, and auto-link)
 
 Cheers! Comments/feedbacks/suggestions are welcome
